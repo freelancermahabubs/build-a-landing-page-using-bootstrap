@@ -1,0 +1,19 @@
+.banner-img-1{
+  background-image: url('/resource/image/carousel/1.jpg');
+  background-repeat: no-repeat;
+  height: 90vh;
+}
+.banner-img-2{
+  background-image: url('/resource/image/carousel/5.jpg');
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.banner-img-3{
+  background-image: url('/resource/image/carousel/3.jpg');
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+ /* Client Images Styles Starts Here */
+ .client-img{
+  width: 160px;
+ }
