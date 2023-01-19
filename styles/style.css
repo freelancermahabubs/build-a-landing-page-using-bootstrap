@@ -1,15 +1,15 @@
 .banner-img-1{
-  background-image: url('resource/image/carousel/1.jpg');
+  background-image: url("../resource/image/carousel/3.jpg");
   background-repeat: no-repeat;
-  height: 90vh;
+  height: 100vh;
 }
 .banner-img-2{
-  background-image: url('resource/image/carousel/5.jpg');
+  background-image: url("../resource/image/carousel/4.jpg");
   background-repeat: no-repeat;
   height: 100vh;
 }
 .banner-img-3{
-  background-image: url('resource/image/carousel/3.jpg');
+  background-image: url("../resource/image/carousel/2.jpg");
   background-repeat: no-repeat;
   height: 100vh;
 }
